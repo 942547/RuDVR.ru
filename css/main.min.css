@@ -32638,7 +32638,7 @@ body {
 
 header {
     background-color: #010300;
-    background-image: url(/images/dist/cam.gif);
+    background-image: url(../images/dist/cam.gif);
     background-size: contain;
     background-position: 65%;
     background-repeat: no-repeat;
